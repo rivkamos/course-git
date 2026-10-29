@@ -1,3 +1,6 @@
-function a(){
-    
+function a(name){
+}
+
+function b(){
+
 }
