@@ -1,0 +1,4 @@
+*            @org/all-teams
+/frontend/   @org/frontend-team 
+/backend/    @org/backend-team
+/security/   @org/security-team
